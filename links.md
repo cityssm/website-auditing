@@ -19,7 +19,10 @@
 
 ## More Checklists and Cheatsheets
 
+-   ⭐ [The A11y Project Checklist](https://www.a11yproject.com/checklist/)
 -   ⭐ [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
+-   [Deque Web Accessibility Checklist](https://dequeuniversity.com/checklists/web/)
+-   [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 -   [Mortiz Giessmann's Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 
 ## Good Reads
