@@ -113,4 +113,4 @@ that can assist with interpreting and implementing the document's recommendation
 ## ➰ Do the Very Easy Stuff Again!
 
 If significant website changes were made while auditing,
-it would be worthwhile to validate the HTML again, and ensure the website still passed Lighthouse tests.
+it would be worthwhile to validate the HTML again, and ensure the website still passes Lighthouse tests.
