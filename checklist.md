@@ -89,6 +89,7 @@ Press <kbd>F5</kbd> to refresh the web page.
 
 -   [ ] Ensure that headings are properly marked with `<h1>`, `<h2>`, tags.
 -   [ ] Ensure that lists are properly marked with `<ul>` or `<ol>` tags.
+-   [ ] Ensure all form fields are properly labelled.
 -   [ ] Ensure tables are only used for table data.
 
 ## 💡 Advanced Hands-On Testing
