@@ -1,4 +1,4 @@
-# Website Auditing Resources
+# City of Sault Ste. Marie Website Auditing Resources
 
 The City of Sault Ste. Marie must regularly audit its websites
 to ensure they are compatible with web standards and meet accessibility guidelines.
