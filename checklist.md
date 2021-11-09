@@ -61,6 +61,18 @@ Navigate to the Lighthouse tab.
 -   [ ] Achieve a passing score (50% or better) in Best Practices.
 -   [ ] Implement any recommendations that would improve the Performance and Best Practices scores.
 
+### Cut the Junk!
+
+**Files**
+
+-   [ ] Avoid subpages for content that could easily be included on the parent page.
+-   [ ] Avoid PDFs and other non-webpage documents for content that could be included on a webpage.
+
+**Language**
+
+-   [ ] Ensure that all content can be reasonably understood by a person with a Grade 9 education.
+-   [ ] Ensure all abbreviations are defined.
+
 ## 🖐 Easy Hands-On Testing
 
 ### Check for Browser Errors
@@ -72,6 +84,12 @@ Press <kbd>F5</kbd> to refresh the web page.
 
 -   [ ] Check the Network tab.  Ensure all files are loading properly.
 -   [ ] Check the Console tab.  Ensure there are no errors.
+
+### Check the Page Structure
+
+-   [ ] Ensure that headings are properly marked with `<h1>`, `<h2>`, tags.
+-   [ ] Ensure that lists are properly marked with `<ul>` or `<ol>` tags.
+-   [ ] Ensure tables are only used for table data.
 
 ## 💡 Advanced Hands-On Testing
 
